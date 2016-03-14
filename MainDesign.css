@@ -1,0 +1,186 @@
+
+
+#Header{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20pt;
+ }
+
+
+#email{
+    border-radius: 7px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+ }
+
+#submitButton{
+   border-radius: 7px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: black;
+    color:white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: white;
+    border-top: groove;
+    border-bottom: groove;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline;
+    color: black;
+    font-size: 13pt;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    padding: 50px 70px;
+    margin:20px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    color:darkslateblue;
+}
+
+
+
+
+
+#password{
+    border-radius:7px;
+    font-family:'Roboto Condensed', sans-serif;
+}
+
+#leftFooter{
+    float: left;
+    text-align: center;
+    background-color: black;
+    color:white;
+    height:70px;
+    padding:10px;}
+
+#login{
+    float: right;
+}
+
+#socialLinks{
+    background-color: black;
+
+    padding:10px;
+    height:70px;
+}
+
+
+
+#fb{
+    padding:5px;
+    margin-left: 100px;
+    border-radius: 15px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+#fb:hover{
+    filter: none;
+}
+
+#twitter{
+    padding:5px;
+     border-radius: 15px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+#twitter:hover{
+    filter:none;
+}
+
+#insta{
+    padding:5px;
+    border-radius: 15px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+#insta:hover{
+    filter:none;
+}
+
+/*SECTION FOR ALTERING IMAGES OF CONTINENTS*/
+#castle{
+    padding:10px;
+    border-radius: 130px;
+
+}
+#castle:hover{
+    filter:saturate(250%) ;
+}
+
+#japan{
+    padding:10px;
+    border-radius: 130px;
+}
+#japan:hover{
+    filter:saturate(250%) ;
+}
+
+#sydney{
+    padding:10px;
+    border-radius: 130px;
+}
+#sydney:hover{
+    filter:saturate(250%) ;
+}
+
+#sanFran{
+    padding:10px;
+    border-radius: 130px;
+}
+#sanFran:hover{
+    filter:saturate(250%) ;
+}
+
+#giraffe{
+    padding:10px;
+    border-radius: 130px;
+}
+#giraffe:hover{
+    filter:saturate(250%) ;
+}
+
+#machu{
+    padding:10px;
+    border-radius: 130px;
+}
+#machu:hover{
+    filter:saturate(250%) ;
+}
+
+
+
+
+
+
+#rightFooter{
+    background-color: black;
+    text-align: center;
+    color:white;
+    float: right;
+    height:70px;
+    padding:10px;
+
+}
+
+footer{
+     background-color: black;
+     width:100%;
+
+     font-family: 'Roboto Condensed', sans-serif;
+ }
